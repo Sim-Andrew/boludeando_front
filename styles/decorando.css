@@ -6,6 +6,10 @@ body {
     color: rgba(177,244,252,255);
     display: flex;
     align-items: auto;
+    justify-content: space-between;
+    margin: 0 5%;
+    font-family: "Montserrat", sans-serif;
+    font-size: small;
 }
 
 .albums-css div {

@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.albums-css {
+    color: rgba(177,244,252,255);
+    display: flex;
+    align-items: auto;
+}
+
+.albums-css div {
+    margin: 0px 20px;
+}
